@@ -7,7 +7,7 @@ library(dplyr)
 library(plotrix)
 
 #Importing Data
-data <- read.csv("C:/Users/ezrah/Documents/[다변량프로젝트]/Data/ds_salaries.csv")
+data <- read.csv("../ds_salaries.csv")
 str(data)
 
 #===== Data Pre-processing =====

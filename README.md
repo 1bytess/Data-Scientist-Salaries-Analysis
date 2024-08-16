@@ -7,9 +7,9 @@ This project involves analyzing data scientist salaries to provide insights for 
 ## Project Structure
 Data-Scientist-Salary-Analysis/
 ├── Data/
-│   └── data_scientist_salaries.csv  # Dataset containing salary information
-├── Salary_Analysis.Rmd              # R Markdown file with analysis
-└── README.md                        # Project overview and instructions
+│   └── data_scientist_salaries.csv
+├── Salary_Analysis.Rmd           
+└── README.md                      
 
 ## Installation and Setup
 To run the analysis, you need to have R and RStudio installed along with the necessary libraries. You can set up your environment by following these steps:

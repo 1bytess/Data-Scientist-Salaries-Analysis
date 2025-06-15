@@ -5,20 +5,24 @@ Analysis of Data Scientist Salaries: Insights for New Graduates and Job Seekers
 This project involves analyzing data scientist salaries to provide insights for new graduates and job seekers. The analysis is performed using R Studio, utilizing a dataset of data scientist salaries across various experience levels, industries, and locations.
 
 ## Project Structure
+```
 Data-Scientist-Salary-Analysis/
 ├── Data/
 │   └── data_scientist_salaries.csv
 ├── Salary_Analysis.Rmd           
 └── README.md                      
+```
 
 ## Installation and Setup
 To run the analysis, you need to have R and RStudio installed along with the necessary libraries. You can set up your environment by following these steps:
 
 1. **Clone the repository**:
+```
 git clone https://github.com/yourusername/Data-Scientist-Salary-Analysis.git
 cd Data-Scientist-Salary-Analysis
+```
 
-2. **Install required R packages**:
+3. **Install required R packages**:
 You can install the necessary packages by running:
 ```R
 install.packages(c("tidyverse", "ggplot2", "dplyr", "lubridate"))
